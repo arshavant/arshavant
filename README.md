@@ -1,6 +1,6 @@
 # Welcome to Surena Arshavant's World of Game Development! 🌟
 
-![A Creative Blend of Code and Fantasy](#)
+A Creative Blend of Code and Fantasy
 
 Greetings, fellow adventurers and code warriors! I am Surena Arshavant, a virtuoso of virtual realms and a maestro of the mighty languages C#, C++, and Java. My quest is to forge worlds within worlds, crafting games that captivate and inspire.
 
