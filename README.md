@@ -7,7 +7,7 @@ Greetings, fellow adventurers and code warriors! I am Surena Arshavant, a virtuo
 ## Embark on a Journey with Me
 - **Languages I Speak:** C#, C++, Java - the trifecta of my game development arsenal.
 - **Current Quest:** I'm honing my skills in a rigorous game development course, delving into the secrets of creating realms that resonate with the soul of a gamer.
-- **Discord:** Join me in the digital round table of game development on Discord as `simorgh__`.
+- **Discord:** Join me in the digital round table of game development on Discord as `hydrosulfuricacid`.
 - **Email:** Send your ravens—or rather, emails—to `arshiyan.sorena@gmail.com`. I welcome all forms of digital correspondence!
 
 ## Crafting Code and Conjuring Quests
